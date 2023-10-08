@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-space-mono: "Space Mono";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-11xl: 30px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-21xl: 40px;
+  --font-size-sm: 14px;
+  --font-size-31xl: 50px;
+  --font-size-41xl: 60px;
+  --font-size-xs-6: 11.6px;
+  --font-size-sm-6: 13.6px;
+  --font-size-mini-5: 14.5px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --black: #000;
+  --color-gray-100: #fffdfd;
+  --black-2: #111;
+  --color-gray-200: rgba(0, 0, 0, 0.4);
+  --color-gray-300: rgba(0, 0, 0, 0.49);
+  --primary-500: #4a60a1;
+  --primary-50: #edeff6;
+  --color-whitesmoke: #eaeaea;
+  --color-gainsboro: rgba(226, 226, 226, 0.1);
+  --color-darkslategray-100: #2a4747;
+  --gray-700: #363a3d;
+
+  /* Gaps */
+  --gap-4xs-7: 8.7px;
+  --gap-7xs-8: 5.8px;
+  --gap-3xs: 10px;
+  --gap-4xl: 23px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xs: 12px;
+  --padding-sm: 14px;
+  --padding-3xl: 22px;
+  --padding-106xl: 125px;
+  --padding-21xl: 40px;
+  --padding-5xl: 24px;
+  --padding-10xs-9: 2.9px;
+  --padding-mini: 15px;
+  --padding-smi: 13px;
+  --padding-13xl: 32px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-9xs: 4px;
+  --br-11xs-5: 1.5px;
+  --br-116xl: 135px;
+  --br-3xs: 10px;
+}
